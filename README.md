@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=🜛+Project-Xz1/+🜛;۞+𝙊𝙁𝘾+𝙐𝙋𝘿𝘼𝙏𝙀+۞;@AlgyDev">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=🜛+Project-Xz1/+🜛;۞+OFC+UPDATE+۞;@AlgyDev">      
 
 <h1 align="center">
 <p>
-<img src= "https://xatimg.com/image/t840CylM9nUn.jpg" alt="𝐓𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒.9" width="1080">
+<img src= "https://xatimg.com/image/Vz3bHwGAeFXl.jpg" alt="ProjectXz1" width="1080">
 </p>
 
 <p align="center">
