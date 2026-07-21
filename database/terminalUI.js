@@ -18,7 +18,7 @@ const colors = {
 };
 
 // Banner futurista e informativo
-function showBanner(botName = "TED BOT", tagline = "tedhost.com.br") {
+function showBanner(botName = "Project Xz1", tagline = "tedhost.com.br") {
   clearScreen(); // Limpa a tela para um banner limpo
   const bannerText = cfonts.render((botName), {
     font: 'block',
