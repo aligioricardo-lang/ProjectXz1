@@ -120,7 +120,7 @@ Este projeto é destinado para fins de estudo, automação e uso pessoal. Use co
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=700&color=0066FF&center=true&vCenter=true&width=850&lines=%E2%95%B0%E2%80%A2%E2%98%85+Project Xz1+%E2%98%85%E2%80%A2%E2%95%AF;%F0%9F%9A%80+Obrigado+por+usar+o+projeto;%F0%9F%91%91+Criado+por+%40Algy Dev" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=700&color=0066FF&center=true&vCenter=true&width=850&lines=%E2%95%B0%E2%80%A2%E2%98%85+Project Xz1+%E2%98%85%E2%80%A2%E2%95%AF;%F0%9F%9A%80+Obrigado+por+usar+o+projeto;%F0%9F%91%91+Criado+por+%40Algy+Dev" alt="Footer Typing SVG" />
 
 <br>
 
@@ -132,6 +132,6 @@ Este projeto é destinado para fins de estudo, automação e uso pessoal. Use co
 
 <img src="https://img.shields.io/badge/Status-Online-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img src="https://img.shields.io/badge/Feito%20com-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Projeto-TED--BOT-0066FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Projeto-Project--Xz1-0066FF?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
