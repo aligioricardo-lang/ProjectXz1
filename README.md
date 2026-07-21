@@ -68,9 +68,9 @@ Para mudar o nome do bot, o prefixo ou o dono, edite o arquivo `settings/config.
 ```json
 {
   "prefix": "#",
-  "NomeDoBot": "TED-BOT",
-  "NickDono": "彡[  TED  ]彡",
-  "numerodono": "559984814822",
+  "NomeDoBot": "Project Xz1",
+  "NickDono": "Algy Dev",
+  "numerodono": "5517982035824",
   "API_KEY_TED": "tedzinho"
 }
 ```
@@ -85,7 +85,7 @@ Basta colocar o seu número no campo `numerodono` dentro do `config.json`. Assim
 
 ## 4. Conexão e QR Code
 Ao ligar o bot pela primeira vez:
-1.  Digite seu número no terminal quando solicitado (ex: `5511999999999`).
+1.  Digite seu número no terminal quando solicitado (ex: `5517982035824`).
 2.  O bot vai gerar um **Código de 8 dígitos**.
 3.  No seu WhatsApp, vá em `Aparelhos Conectados > Conectar com código` e digite o código que apareceu no terminal.
 
@@ -100,13 +100,11 @@ Ao ligar o bot pela primeira vez:
 
 <div align="center">
 
-### 💎 Ted Host
+### 💎 Project Share
 
 | Plataforma | Link |
 |---|---|
-| 🛒 Loja | [loja.tedhost.com.br](https://loja.tedhost.com.br) |
-| 📢 Canal | [Canal WhatsApp](https://whatsapp.com/channel/0029VajvIUnLikgCdbIzSm2h) |
-| 👥 Grupo | [Grupo WhatsApp](https://chat.whatsapp.com/DVDE1TCtHrKFatUKrlepjZ?mode=gi_t) |
+| 👥 Grupo | [Grupo WhatsApp](https://chat.whatsapp.com/LthgoMAPNn10LTGofKKO6B?mode=gi_t) |
 
 </div>
 
@@ -128,7 +126,7 @@ Este projeto é destinado para fins de estudo, automação e uso pessoal. Use co
 
 ### 👑 Autor
 
-**@tedzinho**
+**@Algy Dev**
 
 <br>
 
